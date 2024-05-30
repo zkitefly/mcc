@@ -14,12 +14,8 @@
 
 ### Ikuuu
 
-```
-https://3lsbu.no-mad-world.club/link/3UyGi9l3Y9siXmjr?clash=3&extend=1
-```
+`https://zkitefly.no-mad-world.club/link/3UyGi9l3Y9siXmjr?clash=3&extend=1`
 
 ### Dabai
 
-```
-https://l.db-link01.top/link/z2SMogEehRtWyNWq?clash=1
-```
+`https://l.db-link01.top/link/z2SMogEehRtWyNWq?clash=1`
