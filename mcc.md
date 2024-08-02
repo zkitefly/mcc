@@ -14,8 +14,6 @@
 
 ### Dabai
 
-`https://link1.db-sub.xyz/link/1pVgPczVKaTlmOQB?clash=1`
-
 `https://link1.db-sub.xyz/link/z2SMogEehRtWyNWq?clash=1`
 
 ### Ikuuu
