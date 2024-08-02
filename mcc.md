@@ -18,4 +18,4 @@
 
 ### Dabai
 
-`https://l.db-link01.top/link/z2SMogEehRtWyNWq?clash=1`
+`https://link1.db-sub.xyz/link/z2SMogEehRtWyNWq?clash=1`
