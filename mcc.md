@@ -12,10 +12,12 @@
 
 ## 配置文件
 
+### Dabai
+
+`https://link1.db-sub.xyz/link/1pVgPczVKaTlmOQB?clash=1`
+
+`https://link1.db-sub.xyz/link/z2SMogEehRtWyNWq?clash=1`
+
 ### Ikuuu
 
 `https://zkitefly.no-mad-world.club/link/3UyGi9l3Y9siXmjr?clash=3&extend=1`
-
-### Dabai
-
-`https://link1.db-sub.xyz/link/z2SMogEehRtWyNWq?clash=1`
