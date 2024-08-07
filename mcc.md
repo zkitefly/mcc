@@ -4,9 +4,9 @@
 
 ## 客户端
 
-[Clash for Android 2.5.12.premium.apk](https://mirror.ghproxy.com/https://github.com/zkitefly/zkitefly.github.io/releases/download/3/Clash.for.Android.2.5.12.premium.apk)
+[Clash for Android 2.5.12.premium.apk](https://ghproxy.org/https://github.com/zkitefly/zkitefly.github.io/releases/download/3/Clash.for.Android.2.5.12.premium.apk)
 
-[Clash.for.Windows.Setup.0.20.39_Opt-1.exe](https://mirror.ghproxy.com/https://github.com/zkitefly/zkitefly.github.io/releases/download/3/Clash.for.Windows.Setup.0.20.39_Opt-1.exe)
+[Clash.for.Windows.Setup.0.20.39_Opt-1.exe](https://ghproxy.org/https://github.com/zkitefly/zkitefly.github.io/releases/download/3/Clash.for.Windows.Setup.0.20.39_Opt-1.exe)
 
 [更多...](https://github.com/zkitefly/zkitefly.github.io/releases/tag/3)
 
