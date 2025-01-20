@@ -12,12 +12,10 @@
 
 ## 配置文件
 
-### Xrayvip
-
-`https://www.xrayvip.com/free.yaml`
-
 ### Ikuuu
 
 `https://zkitefly.no-mad-world.club/link/3UyGi9l3Y9siXmjr?clash=3&extend=1`
 
 `https://zkitefly.no-mad-world.club/link/eCv76bcNgJwym4ae?clash=3&extend=1`
+
+`https://zkitefly.no-mad-world.club/link/bPFKzmOdPlIX4pKb?clash=3&extend=1`
