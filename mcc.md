@@ -5,18 +5,16 @@
 ## 客户端
 
 ### 推荐版本
-<h1>Clash 下载</h1>
-
 <!-- ClashMetaForAndroid 下载 -->
 <div class="repo-section">
-    <h2 class="repo-title">Android 版本</h2>
+    <h4 class="repo-title">Android 版本</h2>
     <div id="status-meta" class="loading">正在获取最新版本信息...</div>
     <div id="download-container-meta"></div>
 </div>
 
 <!-- ClashVergeRev 下载 -->
 <div class="repo-section">
-    <h2 class="repo-title">Windows 版本</h2>
+    <h4 class="repo-title">Windows 版本</h2>
     <div id="status-verge" class="loading">正在获取最新版本信息...</div>
     <div id="download-container-verge"></div>
 </div>
