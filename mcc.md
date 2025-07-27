@@ -5,16 +5,17 @@
 ## 客户端
 
 ### 推荐版本
+
 <!-- ClashMetaForAndroid 下载 -->
 <div class="repo-section">
-    <h4 class="repo-title">Android 版本</h2>
+    <h4 class="repo-title">Android 版本</h4>
     <div id="status-meta" class="loading">正在获取最新版本信息...</div>
     <div id="download-container-meta"></div>
 </div>
 
 <!-- ClashVergeRev 下载 -->
 <div class="repo-section">
-    <h4 class="repo-title">Windows 版本</h2>
+    <h4 class="repo-title">Windows 版本</h4>
     <div id="status-verge" class="loading">正在获取最新版本信息...</div>
     <div id="download-container-verge"></div>
 </div>
@@ -68,7 +69,7 @@
                 const statusElement = document.getElementById('status-verge');
                 const downloadContainer = document.getElementById('download-container-verge');
                 
-                // 查找 x64-setup.exe（排除 .sig 文件）
+                // 查找 x64-setup.exe
                 const asset = data.assets.find(asset => 
                     asset.name.endsWith('x64-setup.exe')
                 );
@@ -92,7 +93,7 @@
             .catch(error => {
                 document.getElementById('status-verge').textContent = `错误: ${error.message}`;
                 document.getElementById('status-verge').className = 'error';
-                console.error('ClashVerge Rev 获取失败:', error);
+                console.error('Clash Verge 获取失败:', error);
             });
     });
 </script>
