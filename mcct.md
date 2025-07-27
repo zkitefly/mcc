@@ -8,7 +8,7 @@
 
 ## 第二步，获取配置文件
 
-前往 [My-Clash-Config](/mcc.md#%E5%AE%A2%E6%88%B7%E7%AB%AF) 页面。
+前往 [My-Clash-Config](/mcc.md#%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6) 页面。
 
 在 配置文件 目录下，任选一个或多个配置文件，**复制完整**的 URL，注意不是下载这个文件！
 
